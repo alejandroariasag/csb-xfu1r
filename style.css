@@ -163,6 +163,7 @@ hr:nth-of-type(2) {
 #footer {
   height: 308px;
   background-image: url(assets/desktop/image-footer.jpg);
+  background-size: cover;
   color: white;
 }
 

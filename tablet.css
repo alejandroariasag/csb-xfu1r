@@ -28,8 +28,7 @@
 
   #gallery {
     flex-direction: row;
-    flex-wrap: wrap;
-    width: 60%;
+    flex-wrap: nowrap;
   }
 
   #gallery > img {
@@ -40,8 +39,12 @@
   #overline {
     width: 80%;
   }
+  #footer {
+    height: 100%;
+  }
 
   #footer div.content {
     flex-direction: column;
+    padding: 0%;
   }
 }
