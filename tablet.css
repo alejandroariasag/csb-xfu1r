@@ -29,7 +29,7 @@
   #gallery {
     flex-direction: row;
     flex-wrap: wrap;
-    width: 80%;
+    width: 60%;
   }
 
   #gallery > img {
