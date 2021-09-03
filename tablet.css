@@ -1,9 +1,25 @@
-@media (max-width: 768px) {
-  * {
-    border: 1px solid black;
+@media (min-width: 606px) {
+  body {
+    font-size: 16px;
   }
+
   header {
-    height: 140px;
+    height: 140px !important;
+  }
+
+  h1 {
+    font-size: 48px;
+  }
+
+  h2 {
+    font-size: 40px;
+  }
+
+  .button-holder {
+    flex-direction: row;
+  }
+  .button-holder > div:nth-of-type(2) {
+    margin-top: 0px !important;
   }
   #hero {
     flex-direction: row;
@@ -11,19 +27,16 @@
   }
 
   #hero > div:first-of-type {
-    order: 1;
-    flex-basis: 50%;
     height: 303px;
   }
 
   #hero > div:nth-of-type(2) {
-    order: 3;
-    flex-basis: 100%;
+    padding-left: 20%;
+    padding-right: 20%;
   }
 
   #hero > div:nth-of-type(3) {
-    order: 2;
-    flex-basis: 50%;
+    display: hidden;
   }
 
   #gallery {
@@ -34,6 +47,7 @@
   #gallery > img {
     width: 164px;
     height: 156px;
+    margin: 11px;
   }
 
   #overline {
@@ -42,9 +56,17 @@
   #footer {
     height: 428px;
   }
+  #footer h2 {
+    font-size: 40px;
+    text-align: center;
+  }
 
   #footer div.content {
     flex-direction: column;
     padding: 0%;
+  }
+
+  #footer p {
+    text-align: center;
   }
 }

@@ -16,7 +16,7 @@ body {
   font-family: "Red Hat Display";
   font-style: normal;
   font-weight: 500;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 26px;
   margin: 0px;
   background-color: var(--white);
@@ -24,13 +24,13 @@ body {
 
 h1 {
   font-weight: 900;
-  font-size: 64px;
   line-height: 64px;
+  font-size: 64px;
 }
 
 h2 {
   font-weight: 900;
-  font-size: 40px;
+  font-size: 32px;
   line-height: 44px;
 }
 
@@ -44,11 +44,6 @@ p {
   letter-spacing: 4px;
   text-transform: uppercase;
   color: var(--green);
-}
-
-#overline {
-  width: 30%;
-  margin: 0 auto;
 }
 
 .button {
@@ -68,7 +63,6 @@ p {
 
 .blue:hover {
   background: #71c0d4;
-  border-radius: 29px;
 }
 
 .blue span {
@@ -88,35 +82,17 @@ p {
 }
 
 header {
-  height: 170px;
+  height: 51px;
   background-image: url(assets/logo.svg);
   background-repeat: no-repeat;
   background-position: center center;
 }
 
-#hero {
-  display: flex;
-}
-
-#hero > div {
-  flex-basis: 33.33%;
-}
-
-#hero > div:first-of-type {
-  background-image: url(assets/desktop/image-hero-left.png);
-  background-repeat: no-repeat;
-  background-position: top 0px left -32px;
-}
-
-#hero > div:nth-of-type(3) {
-  background-image: url(assets/desktop/image-hero-right.png);
-  background-repeat: no-repeat;
-  background-position: top 0px right -32px;
-}
-
 .button-holder {
   display: flex;
   justify-content: space-evenly;
+  flex-direction: column;
+  align-items: center;
 }
 
 .counter {
@@ -137,61 +113,10 @@ hr {
   border-left: 1px solid var(--gray);
   height: 84px;
   width: 1px;
-  margin-top: 100px;
+  margin-top: 50px;
   margin-bottom: 0px;
 }
 
 hr:nth-of-type(2) {
   height: calc(84px + 25px);
-}
-
-#gallery {
-  display: flex;
-  justify-content: space-evenly;
-  max-width: 1100px;
-  margin: 50px auto;
-}
-
-#gallery > img {
-  width: 255px;
-  height: 242px;
-  border: 1px solid #d8d8d8;
-  border-radius: 8px;
-  margin: 15px;
-}
-
-#footer {
-  height: 308px;
-  background-image: url(assets/desktop/image-footer.jpg);
-  background-size: cover;
-  color: white;
-}
-
-#footer p {
-  color: white;
-  text-align: left;
-  font-size: 18px;
-}
-
-#footer h2 {
-  text-align: left;
-}
-
-#footer div.counter {
-  position: relative;
-  top: -25px;
-}
-
-#footer div.content {
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-  padding-top: 1%;
-  padding-left: 10%;
-  padding-right: 10%;
-}
-
-.mask {
-  background-color: rgba(77, 150, 169, 0.9);
-  height: 100%;
 }
