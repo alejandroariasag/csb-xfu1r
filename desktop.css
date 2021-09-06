@@ -19,7 +19,7 @@
     order: 1;
     background-image: url(assets/desktop/image-hero-left.png);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
     background-position: top 0px left -32px;
   }
 
@@ -31,7 +31,7 @@
     order: 3;
     background-image: url(assets/desktop/image-hero-right.png);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
     background-position: top 0px right -32px;
   }
 
