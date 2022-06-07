@@ -40,4 +40,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [The Quiff Republic](https://www.aleckbeu.com)
+- Website - [Aleckbeu](https://www.aleckbeu.com)
