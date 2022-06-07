@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- GitHub: https://github.com/aleckbeu/csb-xfu1r
-- Live Site URL: https://aleckbeu.github.io/csb-xfu1r/
+- GitHub: https://github.com/aleckbeu/Meet-landing-page
+- Live Site URL: https://aleckbeu.github.io/Meet-landing-page/
 
 ## My process
 
