@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- GitHub: https://github.com/alejandroariasag/csb-xfu1r
-- Live Site URL: https://alejandroariasag.github.io/csb-xfu1r/
+- GitHub: https://github.com/aleckbeu/csb-xfu1r
+- Live Site URL: https://aleckbeu.github.io/csb-xfu1r/
 
 ## My process
 
@@ -40,4 +40,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [The Quiff Republic](https://www.thequiffrepublic.com)
+- Website - [The Quiff Republic](https://www.aleckbeu.com)
