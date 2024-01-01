@@ -21,12 +21,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](https://github.com/aleckbeu/csb-xfu1r/blob/gh-pages/assets/screenshot.png?raw=true)
+![Screenshot](https://github.com/swckd/csb-xfu1r/blob/gh-pages/assets/screenshot.png?raw=true)
 
 ### Links
 
-- GitHub: https://github.com/aleckbeu/Meet-landing-page
-- Live Site URL: https://aleckbeu.github.io/Meet-landing-page/
+- GitHub: https://github.com/swckd/Meet-landing-page
+- Live Site URL: https://swckd.github.io/Meet-landing-page/
 
 ## My process
 
@@ -40,4 +40,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [Aleckbeu](https://www.aleckbeu.com)
+- Website - 
