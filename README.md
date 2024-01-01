@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](https://github.com/swckd/csb-xfu1r/blob/gh-pages/assets/screenshot.png?raw=true)
+![Screenshot](https://raw.githubusercontent.com/swckd/Meet-landing-page/gh-pages/assets/screenshot.png)
 
 ### Links
 
